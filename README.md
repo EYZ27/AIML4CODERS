@@ -1,7 +1,13 @@
-# 개발자를 위한 머신러닝&amp;딥러닝
+# 개발자를 위한 머신러닝/딥러닝
+## 본 레포지토리는 위 제목의 도서를 참고하고 있습니다.
 
-![cover](cover.jpg)
-
-이 저장소는 <[개발자를 위한 머신러닝&딥러닝](https://bit.ly/aiml-book)> 책의 주피터 노트북을 담고 있습니다. 이 책은 코세라(Cousera)에서 많은 딥러닝 강좌를 진행하고 있는 구글의 수석 AI 애드보커트인 로런스 모로니(Laurence Moroney)가 쓴 <AI and Machine Learning For Corders>의 번역서입니다!
-
-특별히 개발자를 염두해 두고 어려운 수식이나 이론을 가급적 피하고 쉬운 설명과 비유를 통해서 직관적으로 신경망을 이해하도록 돕고 있습니다. 실감나는 예제를 사용해 합성곱 신경망, 순환 신경망은 물론 텐서플로 라이트(TensorFlow Lite)와 TensorFlow.js까지 폭 넓은 주제를 아우릅니다. 딥러닝으로 어떤 일을 할 수 있는지 알아 볼 수 있고, 텐서플로와 케라스를 구체적으로 실습해 볼 수 있습니다.
+## (참고) 정오표
+(p30) 위에서 3번째 줄에 “정답을 제공한다는 규칙이 있습니다”를 “정답을 제공하는 규칙이 있습니다”로 수정합니다.
+(p42) 아래에서 4번째 줄에 “(또는 손실)을 계산한”를 “(또는 손실)를 계산한”으로 수정합니다.
+(p115) 4.3절 아래 1번째 줄에 “ImageDtatGenerator“를 “ImageDataGenerator“로 정정합니다.(최*욱 님)
+(p76) 첫 번째 코드 블록에서 위에서 3번째 줄의 코드를 다음과 같이 변경합니다.
+url = "https://storage.googleapis.com/learning-datasets/horse-or-human.zip"
+(p81) 코드 블록에서 1번째 줄 코드를 다음과 같이 변경합니다.
+validation_url = "https://storage.googleapis.com/learning-datasets/validation-horse-or-human.zip"
+(p98) 아래에서 5번째 줄과 3번째 줄의 URL에서 laurencemoroney-blog.appspot.com을 learning-datasets으로 수정합니다.
+(p221) 위에서 1번째 줄의 URL에서 laurencemoroney-blog.appspot.com을 learning-datasets으로 수정합니다.
